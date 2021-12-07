@@ -44,10 +44,12 @@ List of Data Warehouse KPI's:
 
 ### Dimensional Model
 
-![image](https://user-images.githubusercontent.com/95451679/144768267-7bbe3082-9f1d-40b2-b406-dd6af959ea65.png)
+![image](https://user-images.githubusercontent.com/95451679/144943359-0e710331-1d10-4691-b79c-1732a6624ce9.png)
+
 
 This project's Kimball Bus Matrix:
-![image](https://user-images.githubusercontent.com/95451679/144768272-d5d4a0aa-6e83-45f3-94c3-17d63cb88c2b.png)
+![image](https://user-images.githubusercontent.com/95451679/144943181-40affb36-3e6d-4751-8b01-5431ecbb7360.png)
+
 
 ### Business Intelligence Design and Development
 
