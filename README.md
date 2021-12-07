@@ -54,6 +54,16 @@ This project's Kimball Bus Matrix:
 ![image](https://user-images.githubusercontent.com/95451679/144943181-40affb36-3e6d-4751-8b01-5431ecbb7360.png)
 
 
+### ETL Steps
+1. Establish BigQuery Connection
+2. Extract data sources from BigQuery
+3. Perform data profiling 
+4. Perform data cleansing
+5. Perform data integration 
+6. Create Dimension table
+7. Create Fact table
+8. Load tables into BigQuery
+
 ### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
