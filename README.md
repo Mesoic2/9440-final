@@ -84,4 +84,4 @@ Picture of final Dashboard:
 
 ### Deployment
 
-The project was deployed on Tableau Public: (link here)
+The project was deployed on Tableau Public: https://public.tableau.com/app/profile/shuk.man.lam3958/viz/COVID-19AnalysisDashboard_16383810960450/Story1?publish=yes 
