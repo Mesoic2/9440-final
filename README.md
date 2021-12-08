@@ -50,6 +50,7 @@ List of Data Warehouse KPI's:
 
 This project's Kimball Bus Matrix:
 
+[Final - M2 - Group 4 Kimball BUS Matrix Template.xlsx - Sheet1.pdf](https://github.com/Mesoic2/9440-final/files/7673195/Final.-.M2.-.Group.4.Kimball.BUS.Matrix.Template.xlsx.-.Sheet1.pdf)
 
 ![image](https://user-images.githubusercontent.com/95451679/144943181-40affb36-3e6d-4751-8b01-5431ecbb7360.png)
 
@@ -79,6 +80,7 @@ BI Application Wireframe design:
 Picture of final Dashboard:
 
 ![image](https://user-images.githubusercontent.com/95451679/144768181-3ad3241b-2e17-41fd-8737-e5d546eea126.png)
+
 
 
 ### Deployment
